@@ -1,0 +1,27 @@
+This is Perl module TAP::Formatter::RawData.
+
+INSTALLATION
+
+TAP::Formatter::RawData installation is straightforward. If your CPAN shell is set up,
+you should just be able to do
+
+    % cpan TAP::Formatter::RawData
+
+Download it, unpack it, then build it as per the usual:
+
+    % perl Makefile.PL
+    % make && make test
+
+Then install it:
+
+    % make install
+
+DOCUMENTATION
+
+TAP::Formatter::RawData documentation is available as in POD. So you can do:
+
+    % perldoc TAP::Formatter::RawData
+
+to read the documentation online with your favorite pager.
+
+Masahiro Honma
