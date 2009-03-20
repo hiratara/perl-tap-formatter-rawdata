@@ -1,0 +1,7 @@
+print <<__TAP__;
+1..3
+ok 1
+not ok 2
+# comment!!
+ok 3
+__TAP__

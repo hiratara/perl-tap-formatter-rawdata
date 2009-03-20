@@ -4,6 +4,8 @@ all_from 'lib/TAP/Formatter/RawData.pm';
 
 # requires '';
 
+# Test-Harness-3.15
+
 tests 't/*.t';
 author_tests 'xt';
 
